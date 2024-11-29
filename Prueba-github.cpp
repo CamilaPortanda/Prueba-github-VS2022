@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Vamos a ver que pedo\n";
+    
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
